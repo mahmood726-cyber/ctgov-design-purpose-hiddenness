@@ -1,0 +1,27 @@
+Mahmood Ahmad
+Tahir Heart Institute
+author@example.com
+
+CT.gov Design-Purpose Hiddenness
+
+Which primary purposes look quietest on ClinicalTrials.gov once older closed interventional studies are grouped by stated design intent? We analysed 249,507 eligible older closed interventional studies from the March 29, 2026 full-registry snapshot and compared sponsor-entered purpose and allocation fields. The project estimates two-year no-results rates, ghost-protocol rates, full visibility, and allocation contrasts across treatment, prevention, diagnostic, supportive-care, and unlabeled purpose groups. Treatment trials showed a 68.3 percent no-results rate and a 40.5 percent ghost-protocol rate. Trials with no recorded primary purpose rose to 86.4 percent no results and 59.2 percent ghost protocols, while device-feasibility studies also remained highly obscured. Design intent therefore matters, and blank or underspecified purpose fields mark especially quiet registry segments. Unlabeled intent behaves like a durable warning sign for weak public documentation and low disclosure across sponsors and phases alike. Primary-purpose and allocation fields are sponsor-entered labels rather than externally audited design adjudications, so the analysis remains registry-structural rather than legal.
+
+Outside Notes
+
+Type: methods
+Primary estimand: 2-year no-results rate across primary-purpose groups among eligible older CT.gov studies
+App: CT.gov Design-Purpose Hiddenness dashboard
+Data: 249,507 eligible older closed interventional studies grouped by primary purpose and allocation
+Code: https://github.com/mahmood726-cyber/ctgov-design-purpose-hiddenness
+Version: 1.0.0
+Validation: FULL REGISTRY RUN
+
+References
+
+1. ClinicalTrials.gov API v2. National Library of Medicine. Accessed March 29, 2026.
+2. Zarin DA, Tse T, Williams RJ, Carr S. Trial reporting in ClinicalTrials.gov. N Engl J Med. 2016;375(20):1998-2004.
+3. DeVito NJ, Bacon S, Goldacre B. Compliance with legal requirement to report clinical trial results on ClinicalTrials.gov: a cohort study. Lancet. 2020;395(10221):361-369.
+
+AI Disclosure
+
+This work represents a compiler-generated evidence micro-publication built from structured registry data and deterministic summary code. AI was used as a constrained coding and drafting assistant for interface generation, packaging, and prose refinement, not as an autonomous author. The analytical choices, interpretation, and final outputs were reviewed by the author, who takes responsibility for the content.
