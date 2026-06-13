@@ -3,7 +3,7 @@
   "slug": "ctgov-design-purpose-hiddenness",
   "author": "Mahmood Ahmad",
   "date": "2026-03-29",
-  "path": "C:\\Projects\\ctgov-analyses/ctgov-design-purpose-hiddenness",
+  "path": "ctgov-design-purpose-hiddenness",
   "type": "methods",
   "primary_estimand": "2-year no-results rate across primary-purpose groups among eligible older CT.gov studies",
   "summary": "A standalone E156 project on which trial purposes and allocation labels remain most obscured in older CT.gov studies.",

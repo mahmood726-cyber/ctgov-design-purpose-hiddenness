@@ -80,4 +80,4 @@ SUBMITTED: [ ]
 
 ---
 
-_Auto-generated from the workbook by `C:/E156/scripts/create_missing_protocols.py`. If something is wrong, edit `rewrite-workbook.txt` and re-run the script — it will overwrite this file via the GitHub API._
+_Auto-generated from the workbook. If something is wrong, edit `rewrite-workbook.txt` and re-run the generation script — it will overwrite this file via the GitHub API._
